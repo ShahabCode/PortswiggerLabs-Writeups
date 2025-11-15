@@ -7,11 +7,11 @@ with the **OWASP Top 10**.
 ## 📌 Overview
 
 This repository contains structured, technical writeups documenting the
-exploitation process for various web security vulnerabilities.\
+exploitation process for various web security vulnerabilities.
 The goal is to demonstrate practical offensive security skills,
 methodology, and understanding of modern web attack surfaces.
 
-Each writeup highlights: - 🔍 Vulnerability identification\
+Each writeup highlights: - 🔍 Vulnerability identification
 - 🪜 Exploitation steps
 - 🧪 Payloads used
 - 🛠 Technical reasoning
@@ -97,14 +97,14 @@ Contains observations where applications fail to log critical actions, anomalies
 
 ## 🎯 Purpose of This Repository
 
--   Demonstrate hands‑on experience in offensive security\
--   Show practical knowledge of OWASP Top 10 vulnerabilities\
--   Present a structured approach to exploit development\
+-   Demonstrate hands‑on experience in offensive security
+-   Show practical knowledge of OWASP Top 10 vulnerabilities
+-   Present a structured approach to exploit development
 -   Serve as a portfolio component for cybersecurity roles
 
 ## 🤝 Contributions
 
-This repository is primarily part of my personal security portfolio.\
+This repository is primarily part of my personal security portfolio.
 External contributions are currently limited, but suggestions are
 welcome.
 
