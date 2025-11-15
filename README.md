@@ -12,9 +12,9 @@ The goal is to demonstrate practical offensive security skills,
 methodology, and understanding of modern web attack surfaces.
 
 Each writeup highlights: - 🔍 Vulnerability identification\
-- 🪜 Exploitation steps\
-- 🧪 Payloads used\
-- 🛠 Technical reasoning\
+- 🪜 Exploitation steps
+- 🧪 Payloads used
+- 🛠 Technical reasoning
 - 🌐 Mapping to **OWASP Top 10** categories
 
 This repository serves as part of my **cybersecurity portfolio** and
