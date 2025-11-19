@@ -4,16 +4,18 @@ This write-up is part of my walk-through series for **PortSwigger Web
 Security Academy**.
 
 -   **Lab:** SQL injection vulnerability in WHERE clause allowing
-    retrieval of hidden data\
+    retrieval of hidden data
 -   **Link:**
-    https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data\
+    https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 -   **Difficulty:** *Apprentice*
 
 ------------------------------------------------------------------------
 
 ## Lab Description
 
+
 ![description](img/description.png)
+
 
 The application uses the following SQL query:
 
@@ -71,7 +73,11 @@ WHERE category = 'Gifts' OR 1=1 -- ' AND released = 1;
 
 Displays **all rows**.
 
+
+
 ![solved](img/solved.png)
+
+
 
 ------------------------------------------------------------------------
 
